@@ -21,4 +21,4 @@ TODO:
 欢迎提`PR`或`fork`
 
 
-![](./IDE_Editor_Keymap.png)
+![](./IDE_Editor_Keymap.svg)
