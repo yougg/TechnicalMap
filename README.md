@@ -19,3 +19,8 @@
 
     [https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
     ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+
+- Unix版本历史
+
+    [History of Unix](https://en.wikipedia.org/wiki/History_of_Unix)  
+    ![](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
