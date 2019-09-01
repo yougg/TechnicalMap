@@ -1,4 +1,6 @@
 # 个人搜集与总结的技能知识图谱
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyougg%2FTechnicalMap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyougg%2FTechnicalMap?ref=badge_shield)
+
 
 - 网络通讯协议图
 
@@ -34,3 +36,7 @@
 
     [History of the web browser](https://en.wikipedia.org/wiki/History_of_the_web_browser)  
     ![](https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyougg%2FTechnicalMap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyougg%2FTechnicalMap?ref=badge_large)
