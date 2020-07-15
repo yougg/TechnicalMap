@@ -3,7 +3,8 @@
 - 网络通讯协议图
 
     [科来网络通讯协议图](http://www.colasoft.com.cn/download/protocols_map.php)  
-    ![](http://www.colasoft.com.cn/wp-content/uploads/2016/06/colasoft-protocol-map1-2019-1-1280x836.png)
+    <!-- ![](http://www.colasoft.com.cn/wp-content/uploads/2016/06/colasoft-protocol-map1-2019-1-1280x836.png) -->
+    ![](http://www.colasoft.com.cn/wp-content/uploads/2020/05/%E5%8D%8F%E8%AE%AE%E5%9B%BE_20200526094220-1280x833.jpg)
 
 - 双向证书认证的SSL握手过程
 
