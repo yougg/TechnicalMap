@@ -47,7 +47,7 @@
 <summary>:penguin: Linux发行版时间轴 List of Linux distributions</summary>
 
 [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions)  
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/8/83/Linux_Distribution_Timeline_27_02_21.svg)
 </details>
 
 <details>
