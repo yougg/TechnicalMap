@@ -31,6 +31,14 @@
 </details>
 
 <details>
+<summary>:repeat: TCP有限状态机转换 TCP State Transition Diagram</summary>
+
+[TCP connection status](https://www.ibm.com/docs/en/zos/2.1.0?topic=SSLTBW_2.1.0/com.ibm.zos.v2r1.halu101/constatus.htm)  
+![](https://elguber.files.wordpress.com/2012/04/tcp-state2.png)  
+![](https://img-blog.csdn.net/20150817181939012)
+</details>
+
+<details>
 <summary>:mag_right: Linux性能监测分析工具 Linux Performance Observability Tools</summary>
 
 [Linux Performance](http://www.brendangregg.com/linuxperf.html)  
