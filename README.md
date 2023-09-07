@@ -6,7 +6,8 @@
 [网络通讯协议图 Network Communication Protocols Map](http://www.colasoft.com.cn/download/protocols_map.php)  
 <!-- ![](http://www.colasoft.com.cn/wp-content/uploads/2016/06/colasoft-protocol-map1-2019-1-1280x836.png) -->
 <!-- ![](http://www.colasoft.com.cn/wp-content/uploads/2020/05/%E5%8D%8F%E8%AE%AE%E5%9B%BE_20200526094220-1280x833.jpg)  -->
-![](http://www.colasoft.com.cn/wp-content/uploads/2022/04/%E9%A2%84%E8%A7%88%E5%9B%BE-1280x833.jpg)
+<!-- ![](http://www.colasoft.com.cn/wp-content/uploads/2022/04/%E9%A2%84%E8%A7%88%E5%9B%BE-1280x833.jpg) -->
+![](https://www.colasoft.com.cn/wp-content/uploads/2023/07/protocols_map_2023-1659x1080.jpg)
 </details>
 
 <details>
